@@ -1,0 +1,4 @@
+# Abstract
+This report examines salary levels in the data science market, presenting average salaries from 2020 to 2024 and highlighting the highest-paying positions in the field. Additionally, it investigates the impact of work experience, remote work, and company size on salary levels. The analysis employs group analysis and regression analysis, with visual tools including line charts, scatter plots, and bar charts.
+
+The findings reveal that the average salary in the data science market is relatively high and shows an upward trend. Higher salaries are typically associated with accumulated work experience. However, remote work and company size have no significant impact on salary levels, indicating that data science roles offer high flexibility, allowing individuals to make choices based on personal preferences. These insights aim to help individuals better understand the data science market and make informed decisions about their career planning.
